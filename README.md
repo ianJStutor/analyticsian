@@ -13,8 +13,3 @@ Site analytics
 * Tailwind
 * Upstash/Redis
 * Tremor data viz
-
-## Author
-
-> [Ian Marshall](https://ianjstutor.github.io/ian-marshall/)
-
